@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\TresFuncoesMatematicas\bin\Debug\TresFuncoesMatematicas.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\TresFuncoesMatematicas\bin\Debug\TresFuncoesMatematicas.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\TresFuncoesMatematicas\bin\Debug\TresFuncoesMatematicas.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\TresFuncoesMatematicas\obj\Debug\TresFuncoesMatematicas.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\TresFuncoesMatematicas\obj\Debug\TresFuncoesMatematicas.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Funcoes\TresFuncoesMatematicas\obj\Debug\TresFuncoesMatematicas.pdb
